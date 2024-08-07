@@ -1,0 +1,16 @@
+numpy
+torch
+torchvision
+matplotlib
+h5py
+fire
+jupyterlab
+einops
+scipy
+pandas
+nibabel
+pycocotools
+torchmetrics
+openai-clip
+wandb
+git+https://github.com/cvnlab/nsdcode.git
